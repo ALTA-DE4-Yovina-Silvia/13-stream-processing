@@ -1,0 +1,10 @@
+{
+    "type" : "record",
+    "namespace" : "Task.Stream.Processing",
+    "name" : "ClickEvent_Yovina_silvia",
+    "fields" : [
+       { "name": "user_id", "type" : "int" },
+       { "name": "event_type", "type" : "string" },
+       { "name": "ts", "type": "string" }
+    ]
+ }
